@@ -1,0 +1,11 @@
+Yong Chen, John M. Clapp, Dogan Tirtiroglu,
+Hedonic estimation of housing demand elasticity with a markup over marginal costs,
+Journal of Housing Economics,
+Volume 20, Issue 4,
+2011,
+Pages 233-248,
+ISSN 1051-1377,
+https://doi.org/10.1016/j.jhe.2011.07.001.
+(https://www.sciencedirect.com/science/article/pii/S1051137711000349)
+Abstract: We show that recent developments in hedonic pricing theory allow modeling of the equilibrium pricing function as the marginal cost of an additional housing unit plus a markup that varies inversely with the elasticity of demand. Useful information about demand elasticity at a given point on the envelope function can be recovered from the hedonic regression and limited information on marginal costs. In particular, the elasticity of the envelope with respect to any characteristic such as interior area provides information on the elasticity of demand. Relative price elasticities (i.e., elasticities that vary from a base value in a known way with interior area, unit type or neighborhood characteristics) can be computed from the elasticity of the hedonic envelope. Like Yinger (2010), our method is based on a single hedonic equation. We test our method using sales of new high rise condominiums in two districts within Shenzhen, China: Futian and Longgang. The results strongly confirm the main hypothesis of this paper: price elasticity with respect to size is increasing for more complex types of units. Together with estimates of marginal costs of production, these results imply that relative demand elasticity is declining for larger, more complex units.
+Keywords: House prices; Demand segmentation; Demand elasticity; Hedonic regression; Shenzhen; Monopolistic competition
