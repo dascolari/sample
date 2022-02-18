@@ -1,2 +1,2 @@
 # sample
-coding sample for pre-doc apps
+this repo contains a coding sample for pre-doc apps
